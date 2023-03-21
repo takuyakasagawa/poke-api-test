@@ -1,0 +1,28 @@
+.card {
+    width: 290px;
+    height: 537px;
+    box-shadow: 0px 0px 25px -14px #777777;
+    border-radius: 5px;
+}
+
+.cardName {
+    padding: 0;
+    font-size: 26px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.typeName{
+    padding: 0;
+    font-size: 26px;
+    margin-bottom: 10px;
+    margin-top: 0;
+}
+
+.cardInfo{
+    text-align: center;
+}
+
+.title{
+    font-size: 26px;
+}
